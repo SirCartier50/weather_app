@@ -5,7 +5,7 @@ You can either use this link to the deployed site: https://weather-app-six-tau-1
 
 or
 
-Run the development server:
+Run the development server with these commands assuming node.js was installed since this is as next.js app:
 
 ```bash
 npm run dev
